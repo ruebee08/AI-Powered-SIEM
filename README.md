@@ -1,4 +1,4 @@
-# IOT-AI-Powered-SIEM
+# AI-Powered-SIEM
 
 
 ![Alt text](images/siem_visualisation.png)
